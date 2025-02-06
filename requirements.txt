@@ -112,6 +112,7 @@ pydantic==2.8.2
 pydantic_core==2.20.1
 pydeck==0.9.1
 Pygments==2.18.0
+pymongo==4.11
 PyMySQL==1.1.1
 pyparsing==3.1.2
 PySocks==1.7.1
